@@ -7,3 +7,8 @@ Every space junk piece is represented by a white circle and the name of the piec
 
 ![Alt text](Spacejunk_Posters-1_kl.jpg)
 
+![Alt text](Spacejunk_Posters-Medium_kl.jpg)
+
+![Alt text](Spacejunk_Posters-Large_kl.jpg)
+
+
